@@ -149,15 +149,15 @@
 		  	</tr>
 		  	<tr>
 				<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_4.jpg" alt="Henna_4">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_4.jpeg" alt="Henna_4">
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
-					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_5.jpg" alt="Henna_5">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_5.jpeg" alt="Henna_5">
 					<br>
 			  	</td>
 			  	<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_6.jpg" alt="Henna_6">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_6.jpeg" alt="Henna_6">
 				  	<br>
 			  	</td>
 		  	</tr>
