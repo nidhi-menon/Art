@@ -179,21 +179,21 @@
 					<br>
 				</td>
 				<td width="33%" align="center" valign="center">
-					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_3.jpg" alt="Painting_3">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_3.png" alt="Painting_3">
 					<br>
 				</td>
 		  	</tr>
 		  	<tr>
 				<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_4.jpeg" alt="Painting_4">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_4.jpg" alt="Painting_4">
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
-					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_5.jpeg" alt="Painting_5">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_5.jpg" alt="Painting_5">
 					<br>
 			  	</td>
 			  	<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_6.jpeg" alt="Painting_6">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_6.jpg" alt="Painting_6">
 				  	<br>
 			  	</td>
 		  	</tr>
