@@ -37,6 +37,8 @@
 	  	</tbody>
   	</table>
 	<br>
+	<br>
+	<br>
 	<h3>Flower Rangoli</h3>
   	<table border="1" cellpadding="5">
 		<tbody>
