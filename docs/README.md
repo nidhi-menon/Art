@@ -12,11 +12,25 @@
 				  <br>
 			  </td>
 			  <td align="center" valign="center">
-				  <img src="./Rangoli/Rangoli_2.jpg" alt="Rangoli_2">
+				  <img src="/Rangoli/Rangoli_2.jpg" alt="Rangoli_2">
 				  <br>
 			  </td>
 			  <td align="center" valign="center">
-				  <img src="./Rangoli/Rangoli_3.jpg" alt="Rangoli_3">
+				  <img src="/Rangoli/Rangoli_3.jpg" alt="Rangoli_3">
+				  <br>
+			  </td>
+		  </tr>
+		  <tr>
+			  <td align="center" valign="center">
+				  <img src="/Rangoli/Rangoli_4.jpg" alt="Rangoli_4">
+				  <br>
+			  </td>
+			  <td align="center" valign="center">
+				  <img src="/Rangoli/Rangoli_5.jpg" alt="Rangoli_5">
+				  <br>
+			  </td>
+			  <td align="center" valign="center">
+				  <img src="/Rangoli/Rangoli_6.jpg" alt="Rangoli_6">
 				  <br>
 			  </td>
 		  </tr>
