@@ -163,5 +163,41 @@
 		  	</tr>
 	  	</tbody>
   	</table>
+	<br>
+	<br>
+	<br>
+	<h3>Paintings</h3>
+  	<table border="1" cellpadding="5">
+		<tbody>
+			<tr>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_1.jpg" alt="Painting_1">
+					<br>
+				</td>
+				<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_2.jpg" alt="Painting_2">
+					<br>
+				</td>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_3.jpg" alt="Painting_3">
+					<br>
+				</td>
+		  	</tr>
+		  	<tr>
+				<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_4.jpeg" alt="Painting_4">
+				  	<br>
+			  	</td>
+			  	<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_5.jpeg" alt="Painting_5">
+					<br>
+			  	</td>
+			  	<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Paintings/Painting_6.jpeg" alt="Painting_6">
+				  	<br>
+			  	</td>
+		  	</tr>
+	  	</tbody>
+  	</table>
 </body>
 </html>
