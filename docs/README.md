@@ -56,7 +56,7 @@
 		  	</tr>
 		  	<tr>
 				<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_4.jpg" alt="Pookkalam_4">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_7.jpg" alt="Pookkalam_4">
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
@@ -70,7 +70,7 @@
 		  	</tr>
 			<tr>
 				<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_7.jpg" alt="Pookkalam_8">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_4.jpg" alt="Pookkalam_8">
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
@@ -78,13 +78,13 @@
 					<br>
 			  	</td>
 			  	<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_9.jpg" alt="Pookkalam_9">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_10.jpg" alt="Pookkalam_9">
 				  	<br>
 			  	</td>
 		  	</tr>
 			<tr>
 				<td width="33%" align="center" valign="center">
-				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_10.jpg" alt="Pookkalam_10">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_9.jpg" alt="Pookkalam_10">
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
