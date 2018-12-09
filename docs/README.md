@@ -8,15 +8,15 @@
 	  <tbody>
 		  <tr>
 			  <td align="center" valign="center">
-				  <img src="./Rangoli_1.jpg" alt="Rangoli_1">
+				  <img src="./Rangoli/Rangoli_1.jpg" alt="Rangoli_1">
 				  <br>
 			  </td>
 			  <td align="center" valign="center">
-				  <img src="./Rangoli_2.jpg" alt="Rangoli_2">
+				  <img src="./Rangoli/Rangoli_2.jpg" alt="Rangoli_2">
 				  <br>
 			  </td>
 			  <td align="center" valign="center">
-				  <img src="./Rangoli_3.jpg" alt="Rangoli_3">
+				  <img src="./Rangoli/Rangoli_3.jpg" alt="Rangoli_3">
 				  <br>
 			  </td>
 		  </tr>
