@@ -3,7 +3,7 @@
   <meta charset="utf-8">
 </head>
 <body>
-	<h4>Rangoli></h4>
+	<h3>Rangoli</h3>
   	<table border="1" cellpadding="5">
 		<tbody>
 			<tr>
