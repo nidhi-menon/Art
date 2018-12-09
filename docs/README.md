@@ -3,37 +3,38 @@
   <meta charset="utf-8">
 </head>
 <body>
-  <table border="1" cellpadding="5">
-	  <tbody>
-		  <tr>
-			  <td width="33%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_1.jpg" alt="Rangoli_1">
-				  <br>
-			  </td>
-			  <td width="34%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_2.jpg" alt="Rangoli_2">
-				  <br>
-			  </td>
-			  <td width="33%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_3.jpg" alt="Rangoli_3">
-				  <br>
-			  </td>
-		  </tr>
-		  <tr>
-			  <td width="33%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_4.jpg" alt="Rangoli_4">
-				  <br>
-			  </td>
-			  <td width="34%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_5.jpg" alt="Rangoli_5">
-				  <br>
-			  </td>
-			  <td width="33%" align="center" valign="center">
-				  <img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_6.jpg" alt="Rangoli_6">
-				  <br>
-			  </td>
-		  </tr>
-	  </tbody>
-  </table>
+	<h4>Rangoli></h4>
+  	<table border="1" cellpadding="5">
+		<tbody>
+			<tr>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_1.jpg" alt="Rangoli_1">
+					<br>
+				</td>
+				<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_2.jpg" alt="Rangoli_2">
+					<br>
+				</td>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_3.jpg" alt="Rangoli_3">
+					<br>
+				</td>
+		  	</tr>
+		  	<tr>
+				<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_4.jpg" alt="Rangoli_4">
+				  	<br>
+			  	</td>
+			  	<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_5.jpg" alt="Rangoli_5">
+					<br>
+			  	</td>
+			  	<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Rangoli/Rangoli_6.jpg" alt="Rangoli_6">
+				  	<br>
+			  	</td>
+		  	</tr>
+	  	</tbody>
+  	</table>
 </body>
 </html>
