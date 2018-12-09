@@ -8,7 +8,7 @@
 	  <tbody>
 		  <tr>
 			  <td width="33%" align="center" valign="center">
-				  <img src="docs/Rangoli/Rangoli_1.jpg" alt="Rangoli_1">
+				  <img src="/Rangoli/Rangoli_1.jpg" alt="Rangoli_1">
 				  <br>
 			  </td>
 			  <td width="34%" align="center" valign="center">
