@@ -127,5 +127,41 @@
 		  	</tr>
 	  	</tbody>
   	</table>
+	<br>
+	<br>
+	<br>
+	<h3>Henna</h3>
+  	<table border="1" cellpadding="5">
+		<tbody>
+			<tr>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_1.jpg" alt="Henna_1">
+					<br>
+				</td>
+				<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_2.jpg" alt="Henna_2">
+					<br>
+				</td>
+				<td width="33%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_3.jpg" alt="Henna_3">
+					<br>
+				</td>
+		  	</tr>
+		  	<tr>
+				<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_4.jpg" alt="Henna_4">
+				  	<br>
+			  	</td>
+			  	<td width="34%" align="center" valign="center">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_5.jpg" alt="Henna_5">
+					<br>
+			  	</td>
+			  	<td width="33%" align="center" valign="center">
+				  	<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/Henna/Henna_6.jpg" alt="Henna_6">
+				  	<br>
+			  	</td>
+		  	</tr>
+	  	</tbody>
+  	</table>
 </body>
 </html>
