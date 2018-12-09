@@ -4,7 +4,7 @@
   <title>Art Projects</title>
 </head>
 <body>
-  <table border="1" width="200">
+  <table border="1">
 	  <tbody>
 		  <tr>
 			  <td width="33%" align="center" valign="center">
