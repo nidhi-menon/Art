@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Art Projects</title>
 </head>
 <body>
   <table border="1" cellpadding="5">
