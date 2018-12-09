@@ -116,7 +116,7 @@
 				  	<br>
 			  	</td>
 			  	<td width="34%" align="center" valign="center">
-					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_7.jpg" alt="Pookkalam_17">
+					<img src="https://raw.githubusercontent.com/nidhi-menon/Art/master/FlowerRangolis/Pookkalam_17.jpg" alt="Pookkalam_17">
 					<br>
 			  	</td>
 			  	<td width="33%" align="center" valign="center">
